@@ -1,18 +1,21 @@
-<h3 align="center">Snowflakes</h3>
+<!-- START BLUEPRINT-MANAGED README -->
 
-<p align="center"><i>
-  <a href="https://github.com/teamblueprint/main">blueprint</a> · 
-  <a href="https://github.com/pterodactyl/panel">pterodactyl</a>
-</i></p>
-
-<p align="center">Add snowflakes to your Pterodactyl panel.</p>
+> [!IMPORTANT]
+> This project is an unofficial project hosted on the [`blueprint-community`](https://github.com/blueprint-community) GitHub organization.
+> [Blueprint](https://blueprint.zip) does not create, endorse or maintain these projects.
+>
+> You are free to contribute, fork and reuse sections of this codebase [in accordance with this projects' license](LICENSE).
 
 <br>
 
-> [!IMPORTANT]
-> This tool may not be maintained and might break with new releases of both Pterodactyl and Blueprint. Please use at your own risk, little to no support is provided with this extension.
+<h2 align="center"> Snowflakes </h2>
+<p align="center"> Add Snowflakes to your Pterodactyl panel </p>
 
-<br><br>
+<br>
+
+<!-- END BLUEPRINT-MANAGED README -->
+
+
 
 ### Installation
 To install this extension, download the latest release of Snowflakes and drag the `snowflakes.blueprint` file over to your Pterodactyl installation folder. Then, run `blueprint -install snowflakes` to finish the installation process.
